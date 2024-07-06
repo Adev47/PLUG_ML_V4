@@ -1,5 +1,5 @@
 PLUG LEGIT,online,1.00.04,https://raw.githubusercontent.com/Adev47/PLUG_ML_V4/main/uploads/Loader_2.exe
-PLUG RAGE,online,1.00.02,https://raw.githubusercontent.com/Adev47/PLUG_ML_V4/main/uploads/Loader_1.exe
+PLUG RAGE,online,1.00.03,https://raw.githubusercontent.com/Adev47/PLUG_ML_V4/main/uploads/Loader_3.exe
 PLUG SILENT,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/plug_o2Heb5Au1.exe
 PLUG UA,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Plug_UA.exe
 PLUG PRIVACY,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Plug_Privacy_Protector.exe
