@@ -2,4 +2,4 @@ PLUG LEGIT,online,1.00.06,https://cdn.discordapp.com/attachments/126380163500028
 PLUG RAGE,online,1.00.04,https://cdn.discordapp.com/attachments/1263801635000287235/1268468007072567347/Loader.exe?ex=66ac8863&is=66ab36e3&hm=ed897da9cd2a5bd1d2aab66f1fbef999916e10445b17e0e9ae1ea5b0d52b3eb1&
 PLUG SILENT,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/plug_o2Heb5Au1.exe
 PLUG UA,online,1.00.03,https://cdn.discordapp.com/attachments/1263801635000287235/1268468054132523008/Loader.exe?ex=66ac886f&is=66ab36ef&hm=6854d44617cd09c56d2d6d5d165a882bb1a3596331d5e3c13426a78f30d837c1&
-PLUG PRIVACY,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Plug_Privacy_Protector.exe
+PLUG PRIVACY,online,1.00.02,https://cdn.discordapp.com/attachments/1263801635000287235/1268467846967721995/Loader.exe?ex=66ac883d&is=66ab36bd&hm=c0c628fddff6779f3fb5c850e3da4650ffd21e89bf089caac6e8fe30e710bc7b&
