@@ -1,5 +1,1 @@
-Legit Chair + Blocker,online,1.00.07,https://raw.githubusercontent.com/Adev47/PLUG_ML_V4/main/uploads/Loader_7.exe
-Legit Chair + Blocker,online,1.00.05,https://raw.githubusercontent.com/Adev47/PLUG_ML_V4/main/uploads/Loader_7.exe
-PLUG SILENT,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/plug_o2Heb5Au1.exe
-Legit Chair + Blocker,online,1.00.04,https://raw.githubusercontent.com/Adev47/PLUG_ML_V4/main/uploads/Loader_7.exe
-Legit Chair + Blocker,online,1.00.03,https://raw.githubusercontent.com/Adev47/PLUG_ML_V4/main/uploads/Loader_7.exe
+PLUG SILENT,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/plug_o2Heb5Au1.exe
