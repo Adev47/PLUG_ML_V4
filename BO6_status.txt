@@ -1,2 +1,3 @@
 BO6 Rage,offline,1.00.01,www.google.com
 BO6 UA,offline,1.00.01,www.google.comm
+BO6 AIO,offline,1.00.01,www.google.commm
