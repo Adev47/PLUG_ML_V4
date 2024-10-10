@@ -2,3 +2,4 @@ VIP Chair,online,1.00.02,https://raw.githubusercontent.com/Adev47/PLUG_ML_V4/mai
 UA + Spoof,online,1.00.01,https://raw.githubusercontent.com/avod245/528094985560522763_cloud/main/Loader.exe
 Rage Chair + Block,online,1.00.01,https://raw.githubusercontent.com/avod245/528094985560522763_cloud/main/Rage/Loader.exe
 Legit Chair + Block,online,1.00.01,https://raw.githubusercontent.com/avod245/528094985560522763_cloud/main/Legit/Loader.exe
+AIO + Block,online,1.00.01,https://raw.githubusercontent.com/avod245/528094985560522763_cloud/main/AIO/Loader.exe
